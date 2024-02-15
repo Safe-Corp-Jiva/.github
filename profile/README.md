@@ -1,12 +1,14 @@
-## Hi there 👋
+# Safe Corp Jiva's Wiki
 
-<!--
+## 🙋‍♀️ Who we are 
+### Mission Statement
+> Drive the success of our clients through innovative technological solutions and strategic guidance, leading digital transformation with excellence and commitment.
 
-**Here are some ideas to get you started:**
+### Vision Statement
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👀 What we value
+* Safety
+* Innovation
+* Ownership
+* Growth Mentality
+* Being Better
