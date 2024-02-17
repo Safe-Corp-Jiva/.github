@@ -1,4 +1,4 @@
-# Safe Corp Jiva's Wiki
+# About
 
 ## 🙋‍♀️ Who we are 
 ### Mission Statement
